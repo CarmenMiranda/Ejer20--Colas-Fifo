@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\bin\Debug\Ejer20- Colas FIFO.exe.config
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\bin\Debug\Ejer20- Colas FIFO.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\bin\Debug\Ejer20- Colas FIFO.pdb
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20__Colas_FIFO.Form1.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20__Colas_FIFO.Properties.Resources.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.pdb
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\bin\Debug\Ejer20- Colas FIFO.exe.config
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.exe
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.pdb
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\bin\Debug\Ejer20- Colas FIFO.exe
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\bin\Debug\Ejer20- Colas FIFO.pdb
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20__Colas_FIFO.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20__Colas_FIFO.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer20- Colas FIFO\Ejer20- Colas FIFO\obj\Debug\Ejer20- Colas FIFO.csproj.GenerateResource.Cache
